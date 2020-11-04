@@ -8,4 +8,4 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![omal's github stats](https://github-readme-stats.vercel.app/api?username=omalperera&show_icons=true&theme=vue-dark)
+![omal's github stats](https://github-readme-stats.vercel.app/api?username=omalperera&show_icons=true&theme=prussian)
