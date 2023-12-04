@@ -1,4 +1,3 @@
-### Heloooo 👋, I'm Omal Perera
 
 [![](https://vistr.dev/badge?repo=omalperera.omalperera&corners=square)](https://github.com/Elfocrash/vistr.dev)
 [![](https://img.shields.io/badge/-@omalperera-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/omalperera)
